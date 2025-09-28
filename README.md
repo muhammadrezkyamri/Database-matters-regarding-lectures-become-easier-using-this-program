@@ -1,2 +1,2 @@
-# Database-matters-regarding-lectures-become-easier-using-this-program
+# Database matters regarding lectures become easier using this program
 This academic management system is built with Python and MySQL, providing CRUD features for students, lecturers, courses, and study plans (KRS). Admins can manage all records, while students can view profiles, courses, and grades. To access it, first install Python and MySQL, then create the database and tables. After configuring the database connection in the script, run the Python program from the terminal. The system will display a login menu for Admin or Student. By entering the correct credentials, users can navigate menus to add, edit, delete, or view data, making academic management structured and efficient.
